@@ -58,8 +58,8 @@ problem — in research or in the real world.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=tahahb79&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahahb79&layout=compact&theme=default&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=tahahb79&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tahahb79&layout=compact&theme=default&hide_border=true"/>
 
 </div>
 
